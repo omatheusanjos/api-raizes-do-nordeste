@@ -29,7 +29,7 @@ Com o ambiente virtual ativado, rode o servidor com o comando:
 uvicorn main:app --reload
 
 ## Documentação (Swagger / OpenAPI)
-Com o servidor rodando, a documentação interativa da API poderá ser acessada no seu navegador através do link: 👉 http://127.0.0.1:8000/docs
+Com o servidor rodando, a documentação interativa da API poderá ser acessada no seu navegador através do link: http://127.0.0.1:8000/docs
 
 ## Testes
 O arquivo de coleção contendo os cenários de testes exigidos encontra-se na raiz deste repositório com o nome Raizes_do_Nordeste_Postman.json. Importe este arquivo no Postman ou Insomnia para validar os fluxos positivos e de exceção.
